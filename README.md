@@ -9,12 +9,12 @@
 
 ## 🎯 ¿Qué vas a aprender?
 
-- 💅 Crear interfaces de usuario **atractivas y responsivas**
-- ⚙️ Dominar el **Frontend y el Backend** desde cero
-- 🗄️ Gestionar **bases de datos** relacionales (SQL) y no relacionales (MongoDB)
-- 🌐 Construir y consumir **APIs REST**
-- 🧪 Escribir **tests** como un profesional
-- ☁️ **Desplegar** aplicaciones reales en producción
+- Crear interfaces de usuario **atractivas y responsivas**
+- Dominar el **Frontend y el Backend** desde cero
+- Gestionar **bases de datos** relacionales (SQL) y no relacionales (MongoDB)
+- Construir y consumir **APIs REST**
+- Escribir **tests** como un profesional
+- **Desplegar** aplicaciones reales en producción
 
 **Tecnologías:** `HTML` · `CSS` · `JavaScript ES6+` · `Node.js` · `Express` · `React` · `MongoDB` · `SQL` · `Jest` · `Git`
 
@@ -67,9 +67,29 @@
 
 ---
 
-### 🎓 Clases de Refuerzo
+## 🎓 Clases de Refuerzo
 
-- 🎨 Mejora Planet Skin
-- 🏗️ Proyecto MVP — Briefing · Wireframes · Pasarela de pago
+### 🎨 Mejora Planet Skin
+
+> Repaso de maquetación y estilos aplicados a un proyecto real.
+
+| Recurso | Enlace |
+|---------|--------|
+| Repositorio | [planet-skin-available](https://github.com/CarlosDiazGirol/planet-skin-available) |
+| Grabación | [Ver en Google Drive](https://drive.google.com/file/d/19TQaDeFDbaKZFTyxBns6Tu0ywzXOLSUF/view?usp=sharing) |
+
+---
+
+### 🏗️ Proyecto MVP
+
+> Construye tu primer producto mínimo viable de principio a fin.
+
+| Recurso | Enlace |
+|---------|--------|
+| Presentación | [Ver slides](https://docs.google.com/presentation/d/1m8_m5Y4OCYsVkZy-txovh1b409eD2M_Wz4piqa17GBo/edit?usp=sharing) |
+| Grabación | [Ver en YouTube](https://youtu.be/85ktueh7Wi4) |
+| Ejemplo de Briefing | [Abrir documento](https://docs.google.com/document/d/1KAGi8JsgM_rENFEFmpTrRpfIQQI8S5_CxPOWCtxk9nI/edit?hl=es&tab=t.0) |
+| Wireframes | [Figma](https://www.figma.com/) |
+| Pasarela de pago | [Stripe](https://stripe.com/) |
 
 ---
