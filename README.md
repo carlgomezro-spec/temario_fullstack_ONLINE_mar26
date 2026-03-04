@@ -3,16 +3,9 @@
 # 🚀 Desarrollo Web Full Stack · Online | Oct_24
 
 > **Stack MERN** · MongoDB · Express · React · Node.js  
-> *De cero a desarrollador Full Stack en un bootcamp intensivo*
+> *De cero a desarrollador Full Stack*
 
 ---
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║   HTML → CSS → JS → Node → Express → MongoDB → React      ║
-║                    ¡Tú puedes con todo esto!              ║
-╚═══════════════════════════════════════════════════════════╝
-```
 
 ## 🎯 ¿Qué vas a aprender?
 
@@ -32,9 +25,6 @@
 | Bloque | Sprints | Tecnologías |
 |--------|---------|-------------|
 | [🟡 Ramp Up](#-ramp-up) | Sprint 1–2 | HTML, CSS, JS Básico |
-| [🟠 JS Avanzado](#-js-avanzado) | Sprint 3–6 | ES6+, DOM, Fetch, APIs |
-| [🔵 Backend](#-backend) | Sprint 9–14 | Node, Express, SQL, MongoDB |
-| [🟢 Frontend](#-frontend) | Sprint 17–20 | React, Hooks, Deploy |
 
 ---
 
