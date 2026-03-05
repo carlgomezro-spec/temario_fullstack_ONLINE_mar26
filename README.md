@@ -24,25 +24,31 @@
 
 | Bloque | Sprints | Tecnologías |
 |--------|---------|-------------|
-| [🟡 Ramp Up](#-ramp-up) | Sprint 1–2 | HTML, CSS, JS Básico |
+| [🟡 Fundamentals](#-fundamentals) | Sprint 1–6 | HTML, CSS, JS Básico |
 
 ---
 
 ## 📚 Temario completo
 
-<a name="ramp-up"></a>
-### 🟡 Ramp Up
-
+<a name="Fundamentals"></a>
+### 🟡 Fundamentals + JS Avanzado
 <details>
-<summary><strong>🚀 Sprint 1 · HTML y CSS</strong></summary>
+<summary><strong>🚀 Sprint 1 · Fundamentos Web HTML </strong></summary>
 
-### [HTML Fundamentos](./01_Ramp_Up/01_html/)
+### [HTML Fundamentos](./01_Fundamentals/01_html/)
 - Lenguaje de marcado y lado del cliente
 - Encabezados, párrafos, formato de texto, citas, listas, comentarios
 - Enlaces, tablas y etiquetas multimedia
 - Formularios y etiquetas semánticas
 
-### [CSS](./01_Ramp_Up/02_css/)
+- [📄 Ver Manual HTML5](https://drive.google.com/file/d/1EyGk30trmUYn6wuah6ID0tlbu_j2LsDs/view)
+- [📄 Ver Cheatsheet HTML5](https://drive.google.com/file/d/1YNlZR44lYLsxmeVHQInEn7vExFXWsUm-/view)
+
+</details>
+<details>
+<summary><strong>🚀 Sprint 2 · CSS y JS (Fundamentals)</strong></summary>
+
+### [CSS](./01_Fundamentals/02_css/)
 **1. Introducción a CSS**
 - ¿Qué es CSS? · Conectando HTML y CSS
 - Selectores, modelo de cajas y posición
@@ -52,44 +58,20 @@
 - Mobile first y media queries
 - Transform, transiciones y animaciones
 
-</details>
+- [📄 Ver Manual CSS3](https://drive.google.com/file/d/1U1TLx1LvFaVLU3ZtOE36_AP4lOhXMMUk/view)
+- [📄 Ver Cheatsheet CSS3](https://drive.google.com/file/d/1aiL5oZDaFj8c6czu7VNhO4CMyG0cwi-2/view)
+- [📄 Ver Manual CSS3: Animaciones y transiciones](https://drive.google.com/file/d/1LUnuX_lfCS9kIAF-ivnu0gZJrloEMY_V/view)
+- [📄 Ver Cheatsheet CSS3: Animaciones y transiciones](https://drive.google.com/file/d/1ElPc8z-VkFvnT4SL94AmGzylm_KMQ31r/view)
 
-<details>
-<summary><strong>🚀 Sprint 2 · JS Fundamentos</strong></summary>
-
-### [JS Fundamentos](./01_Ramp_Up/03_js/)
+### [JS Fundamentos](./01_Fundamentals/03_js/)
 
 - Variables y tipos de datos
 - Operadores, Arrays y Bucles
 - Funciones, Condicionales y Objetos
 
+- [📄 Ver Manual JS](https://drive.google.com/file/d/1kgArxuoa6EFRL3fhjCkuOWOE0v73z2TA/view)
+- [📄 Ver Cheatsheet JS](https://drive.google.com/file/d/1V2Tyut9YGohGAM2NvUiwyztxKGH-AA4z/view)
+
 </details>
-
----
-
-## 🎓 Clases de Refuerzo
-
-### 🎨 Mejora Planet Skin
-
-> Repaso de maquetación y estilos aplicados a un proyecto real.
-
-| Recurso | Enlace |
-|---------|--------|
-| Repositorio | [planet-skin-available](https://github.com/CarlosDiazGirol/planet-skin-available) |
-| Grabación | [Ver en Google Drive](https://drive.google.com/file/d/19TQaDeFDbaKZFTyxBns6Tu0ywzXOLSUF/view?usp=sharing) |
-
----
-
-### 🏗️ Proyecto MVP
-
-> Construye tu primer producto mínimo viable de principio a fin.
-
-| Recurso | Enlace |
-|---------|--------|
-| Presentación | [Ver slides](https://docs.google.com/presentation/d/1m8_m5Y4OCYsVkZy-txovh1b409eD2M_Wz4piqa17GBo/edit?usp=sharing) |
-| Grabación | [Ver en YouTube](https://youtu.be/85ktueh7Wi4) |
-| Ejemplo de Briefing | [Abrir documento](https://docs.google.com/document/d/1KAGi8JsgM_rENFEFmpTrRpfIQQI8S5_CxPOWCtxk9nI/edit?hl=es&tab=t.0) |
-| Wireframes | [Figma](https://www.figma.com/) |
-| Pasarela de pago | [Stripe](https://stripe.com/) |
 
 ---
